@@ -1,0 +1,9 @@
+Threading=False
+pp=True
+ppp=False
+endc=''
+color=True
+if(Threading):
+    trace=[([],0,0)]*6 
+else:
+    trace=[] 

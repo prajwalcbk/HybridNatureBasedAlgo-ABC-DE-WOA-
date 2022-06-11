@@ -1,0 +1,2 @@
+endc=''
+color=True
